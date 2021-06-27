@@ -4,7 +4,8 @@
 
 ### <div align="center">I'm Cristian, a 1st year student at Goldsmiths, University of London pursuing a bachelor's degree in computer science.</div>  
 
-- 🌱 I’m currently learning Laravel and Lua  
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other people  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NitaCristian&&style=flat-square" align="center" />
@@ -47,7 +48,7 @@
 ## My Skill Set  
 
 <table><tr><td valign="top" width="50%">
-
+  
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -67,5 +68,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 </div>
+  
+</td></tr></table>  
 
 <br/>  
