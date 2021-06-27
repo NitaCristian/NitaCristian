@@ -13,7 +13,9 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NitaCristian&theme=onedark)]
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NitaCristian&theme=onedark" align="center" />
+</div>  
 
 <br/> 
 
