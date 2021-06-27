@@ -7,14 +7,13 @@
 - 🌱 I’m currently learning Laravel and Lua  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-<img src="https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000" align="center"/>
-<img src="https://img.shields.io/badge/Feeling-cool-green.svg" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=NitaCristian&&style=flat-square" align="center" />
+<img src="https://img.shields.io/github/followers/NitaCristian.svg?style=social&label=Follow&maxAge=2592000" align="center"/>
 </div>  
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NitaCristian&theme=onedark)]
 
 <br/> 
 
