@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/NitaCristian/NitaCristian/blob/main/banner.png" align="center" style="width: 100%" />
 </div> 
 
 I'm a 1st year student at Goldsmiths, University of London pursuing a bachelor's degree in computer science.
