@@ -8,12 +8,13 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000" align="center"/>
+<img src="https://img.shields.io/badge/Feeling-cool-green.svg" align="center"/>
 </div>  
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+<br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 <br/> 
 
