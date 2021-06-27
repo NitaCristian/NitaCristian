@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other people  
+⚡ Fun fact: I use tabs over spaces  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NitaCristian&&style=flat-square" align="center" />
@@ -56,7 +57,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -73,4 +74,4 @@
 
 <br/>  
 
-<img src="https://readme-jokes.vercel.app/api&theme=react" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
