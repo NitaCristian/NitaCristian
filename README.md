@@ -2,7 +2,7 @@
 <img src="https://github.com/NitaCristian/NitaCristian/blob/main/banner.png" align="center" style="width: 100%" />
 </div> 
 
-### <div align="center">I'm Cristian Niță, a 2nd year student at Goldsmiths, University of London pursuing a bachelor's degree in computer science.</div>  
+### <div align="center">I'm Cristian Niță, a 2nd year student at Goldsmiths, University of London pursuing a Bachelor's degree in Computer Science.</div>  
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other people  
