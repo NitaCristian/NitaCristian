@@ -8,8 +8,6 @@
 <p align="center">
   <a href="https://github.com/NitaCristian" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/nita-cristian-275874188/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/nita.cristian.186/" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/cristiannita24/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <p align="center">
@@ -21,11 +19,18 @@
 
 ### 🌱 Currently Learning
 
-- 📚 Diving into everything that sparks my curiosity
-- 🤝 Looking to collaborate with like-minded individuals  
-- ⚡ Fun fact: I use tabs over spaces  
+- 📚 Diving into advanced algorithms and data structures to sharpen my problem-solving skills
+- 💡 Exploring machine learning and artificial intelligence to expand my knowledge in cutting-edge technologies
+- 🚀 Building projects with .NET and Blazor to enhance my full-stack development capabilities
+- 📝 Practicing competitive programming on platforms like [LeetCode](https://leetcode.com/u/CristianNita/) to stay ahead in coding challenges
 
 ---
+
+### 💡 My Passion for Algorithms and Data Structures
+
+I have a deep passion for algorithms and data structures, which I constantly strive to master. From solving complex problems on LeetCode to implementing efficient algorithms in my projects, I enjoy the challenge and satisfaction that comes with problem-solving.
+
+Check out my [LeetCode profile](https://leetcode.com/u/CristianNita/) to see some of the problems I've tackled!
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NitaCristian&theme=onedark" align="center" />
@@ -69,13 +74,7 @@
 
 ---
 
-## 📬 Connect with Me:
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
+## 😄 Here's a little joke to brighten your day:
 
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
